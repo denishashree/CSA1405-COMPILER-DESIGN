@@ -75,9 +75,8 @@ int main()
         default:
             printf("Not a operator");
     }
-    
-    <img width="1599" height="899" alt="WhatsApp Image 2026-10-06 at 10 20 52 AM" src="https://github.com/user-attachments/assets/0aab9716-a82a-4991-b275-8e9b93f244d2" />
-
 
     return 0;
 }
+<img width="1599" height="899" alt="WhatsApp Image 2026-10-06 at 10 20 52 AM" src="https://github.com/user-attachments/assets/066162fc-627e-4062-9629-c24adbd193fb" />
+
